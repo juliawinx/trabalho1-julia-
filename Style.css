@@ -1,9 +1,8 @@
-Style.css
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Single+Day&display=swap');
 
 :root {
     --cor-do-fundo: #B21899; 
-    --rosa: ##E80744;
+    --rosa: #E80744;
     --branco: #FFFFFF;
     --botao-ativo: #FF0B4D;
     --botao-inativo: rgba(57, 40, 70, 1);
